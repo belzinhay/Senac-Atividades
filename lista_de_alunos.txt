@@ -1,0 +1,2 @@
+# Senac-Atividades
+Config files for my GitHub profile.
